@@ -1,2 +1,7 @@
+## ISPC Programador - TSDWAD - 2022
 # Aula19 Grupo 03
- ISPC - Aula 19
+Aula 19 Grupo 03
+
+Participantes:
+
+*   Adrian Camus
