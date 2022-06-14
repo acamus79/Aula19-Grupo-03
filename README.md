@@ -5,3 +5,4 @@ Aula 19 Grupo 03
 Participantes:
 
 *   Adrian Camus
+*   Mariana Ballardini
