@@ -7,6 +7,7 @@ Participantes:
 *   Adrian Camus
 *   Mariana Ballardini
 *  Juan Bazan  
+*  Pablo Agüero
 
 ## ¿Cuáles son las Ceremonias en Scrum?
 - Sprint Planning Meeting
