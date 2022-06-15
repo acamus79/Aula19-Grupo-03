@@ -6,3 +6,4 @@ Participantes:
 
 *   Adrian Camus
 *   Mariana Ballardini
+*  Juan Bazan  
