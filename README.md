@@ -7,3 +7,9 @@ Participantes:
 *   Adrian Camus
 *   Mariana Ballardini
 *  Juan Bazan  
+
+## ¿Cuáles son las Ceremonias en Scrum?
+- Sprint Planning Meeting
+- Daily Scrum Meeting
+- Sprint Review Meeting
+- Sprint Retrospective Meeting
