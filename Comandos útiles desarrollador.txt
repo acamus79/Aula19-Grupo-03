@@ -1,0 +1,4 @@
+Borrar una rama remota: 
+Abrir desde carpeta del proyecto "Git Bash"
+Poner en Git:
+git push origin --delete (nombre de la rama) sin parentesis
