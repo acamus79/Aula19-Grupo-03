@@ -20,3 +20,24 @@ INSERT into Alumno (Legajo, Nombre, Apellido, Localidad, Telefono) values (32449
 INSERT into Alumno (Legajo, Nombre, Apellido, Localidad, Telefono) values (40587214, 'Sevelinda', 'Parada', '1','26124974710');
 
 ## 3 
+INSERT INTO Carrera (idCarrera, NombreCarrera) VALUES (1, 'Redes');
+INSERT INTO Carrera (idCarrera, NombreCarrera) VALUES (2, 'Administración');
+INSERT INTO Carrera (idCarrera, NombreCarrera) VALUES (3, 'Biotecnología');
+INSERT INTO Carrera (idCarrera, NombreCarrera) VALUES (4, 'Programación');
+INSERT INTO Carrera (idCarrera, NombreCarrera) VALUES (5, 'Análisis de Datos');
+
+## 4
+INSERT INTO Materias (idMaterias, Nombre, Carrera) VALUES (1, 'Lógica', 5);
+INSERT INTO Materias (idMaterias, Nombre, Carrera) VALUES (2, 'Inglés', 2);
+INSERT INTO Materias (idMaterias, Nombre, Carrera) VALUES (3, 'Sistemas de Información', 3);
+INSERT INTO Materias (idMaterias, Nombre, Carrera) VALUES (4, 'Programación 1', 4);
+INSERT INTO Materias (idMaterias, Nombre, Carrera) VALUES (5, 'Proyecto', 1);
+
+## 5 
+INSERT INTO AlumnoXMaterias (Legajo, IdMateria, Nota) VALUES (27459881, 1, 6);
+INSERT INTO AlumnoXMaterias (Legajo, IdMateria, Nota) VALUES (29455181, 5, 8);
+INSERT INTO AlumnoXMaterias (Legajo, IdMateria, Nota) VALUES (32449889, 4, 9);
+INSERT INTO AlumnoXMaterias (Legajo, IdMateria, Nota) VALUES (37449881, 3, 7);
+INSERT INTO AlumnoXMaterias (Legajo, IdMateria, Nota) VALUES (40587214, 2, 6);
+
+
