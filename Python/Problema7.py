@@ -5,4 +5,4 @@ promedio=total/7#creo una variable llamada promedio y la igualo a la variable to
 if promedio > 4500:#pregunto si el promedio es mayor a 4500 muestro un mensaje
     print("Se ha excedido del gasto promedio para su mascota")
 else:# si el promedio no es mayor lo muestro
-    print(promedio)
+    print(round(promedio))
